@@ -1,16 +1,28 @@
 # myinventory
 
-A new Flutter project.
+meuInventário é um aplicativo feito para auxiliar no controle de objetos e móveis pertencentes ao patrimônio de um hospital. Facilitando o controle sobre aquele objeto / móvel (responsável, setor pertencente, características, etc.), através da leitura de um código QR.
 
-## Getting Started
+meuInventário is an application designed to assist in the control of objects and furniture belonging to the patrimony of a hospital. Facilitating the control over that object / furniture (responsible, belonging sector, characteristics, etc.), by scanning a QR code.
 
-This project is a starting point for a Flutter application.
+Tecnologias utilizadas:
+Flutter (UI)
+Dart (Linguagem de programação)
+Firebase Auth (Autenticação)
+Firebase Firestore (Banco de dados)
+RxDart (Reatividade)
+MobX (Reatividade/Controle de estado)
+Get It (Provedor)
+Qr Flutter (Geração de código QR)
+Barcode Scan (Leitura de código QR)
 
-A few resources to get you started if this is your first Flutter project:
+Technologies used:
+Flutter (UI)
+Dart (Programming language)
+Firebase Auth (Authentication)
+Firebase Firestore (Database)
+RxDart (Reactivity)
+MobX (Reactivity / State Control)
+Get It (Provider)
+Qr Flutter (QR code generation)
+Barcode Scan
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
