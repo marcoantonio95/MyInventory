@@ -24,7 +24,7 @@ The goal was to conduct a technical study for my team, assessing the viability o
 
 ## How to Run
 1. Clone the repository:
-`git clone https://github.com/your-username/myinventory.git`
+`git clone https://github.com/marcoantonio95/MyInventory.git`
 2. Open the project in your preferred IDE.
 3. Install the dependencies by running:
 `flutter pub get`
